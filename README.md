@@ -3,5 +3,6 @@
 
 é só criar o script e deixar rodando, recomendo alocar tempos para as próximas pesquisas...
 
-![png](youtube.png)
+<img src="youtube.png" alt="YouTube Logo" width="50" height="50">
+
 ![youtube](https://youtu.be/v0pDiFQk3Xc) 
